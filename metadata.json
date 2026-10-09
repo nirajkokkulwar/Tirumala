@@ -1,0 +1,6 @@
+{
+  "name": "Tirumala Cloth Store",
+  "description": "Premium traditional Indian clothing boutique and digital visit experience. Curated collections, save for visit, style consultation, and store preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
